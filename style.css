@@ -435,7 +435,7 @@ body {
   bottom: 20%;
 }
 /* more than 1440PX (for desktop )*/
-@media (min-width: 70em) {
+@media (min-width: 90em) {
   .container {
     padding: 6.4rem 35.5rem 0 35.5rem;
     min-width: 37.5rem;
